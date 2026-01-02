@@ -1,0 +1,7 @@
+{
+  "name": "Sync Marketing",
+  "description": "Sistema de gestão Sync Marketing",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
